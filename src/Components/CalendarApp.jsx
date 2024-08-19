@@ -175,14 +175,13 @@ const CalendarApp = () => {
                 className="minutes"
                 value={eventTime.minutes}
                 onChange={handleTimeChange}
-                onKeyDown={(e) => e.preventDefault()}
               />
             </div>
             <textarea
               placeholder="Enter Text"
               value={eventText}
               onChange={(e) => {
-                if (e.target.value.length <= 60) {
+                if (e.target.value.length <= 100) {
                   setEventText(e.target.value)
                 }
               }}
