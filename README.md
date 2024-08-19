@@ -4,7 +4,7 @@ The app helps you track everyday activities through events that can be used to i
 
 This is a React-based calendar application that allows users to create, view, and manage reminders. The app features an intuitive user interface, enabling users to navigate through dates, set up reminders, and customize their experience.
 
-##Features
+## Features
 Interactive Calendar: Navigate through days, weeks, and months easily.
 
 Reminders: Set, edit, and delete reminders for any date.
