@@ -14,4 +14,4 @@ Responsive Design: Optimized for both desktop and mobile devices.
 Customizable: Personalize the app with your preferences.
 
 ## Live Link
-Live Deployed Link[https://caltodo.netlify.app/]
+[Live Deployed Link](https://caltodo.netlify.app/)
