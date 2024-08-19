@@ -1,8 +1,14 @@
-# React + Vite
+# Calendar App Using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The app helps you track everyday activities through events that can be used to increase individual's productivity .
 
-Currently, two official plugins are available:
+This is a React-based calendar application that allows users to create, view, and manage reminders. The app features an intuitive user interface, enabling users to navigate through dates, set up reminders, and customize their experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+Interactive Calendar: Navigate through days, weeks, and months easily.
+
+Reminders: Set, edit, and delete reminders for any date.
+
+Responsive Design: Optimized for both desktop and mobile devices.
+
+Customizable: Personalize the app with your preferences.
