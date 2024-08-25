@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
-    <div className="align-items">
-        <div className="div footer-content">
+    <div className="footer">
+        <div className="footer-content">
         Created by Abhijeet Gaur
         <div className="footer-links">
         <a href="https://www.linkedin.com/in/abhijeet-gaur-848754300/">LinkedIn</a> ·
